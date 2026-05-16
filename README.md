@@ -129,7 +129,7 @@ MaxSingleChannel = 250,000                           # ✅ ≤ 250,000
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/lp-marketing-analytics.git
+   git clone https://github.com/leannejoylibertad/lp-marketing-analytics.git
    cd lp-marketing-analytics
    ```
 
